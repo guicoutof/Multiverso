@@ -1,0 +1,21 @@
+.welcome{
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    align-items: center;
+    width: 80%;
+    height: 80%;
+    background-image: url(https://i.ytimg.com/vi/NxRSv-_ZeiU/maxresdefault.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.welcome h1{
+    color: white;
+    /* text-shadow: 0px 0px 2px black; */
+    background-color: black;
+}
+.componenteLogout{
+    margin-top: auto !important;
+    width: 30% !important;
+}
